@@ -31,7 +31,7 @@ com foco em criar experiências visuais de qualidade para o usuário.
 
 ## 📂 Projetos em Destaque
 
- 🎬 [Namaste Films](https://vinnybuziosmendes-cyber.github.io/namaste-films)
+### 🎬 [Namaste Films](https://vinnybuziosmendes-cyber.github.io/namaste-films)
 > Site profissional desenvolvido para uma produtora audiovisual real.
 
 - Landing page completa com vídeo em background, portfólio e loja de produtos
@@ -41,7 +41,7 @@ com foco em criar experiências visuais de qualidade para o usuário.
 
 ---
 
- GitHub 
+## 📈 GitHub Stats
 
 ![Vinicius's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinnybuziosmendes-cyber&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=d4af37&icon_color=d4af37)
 
@@ -49,8 +49,11 @@ com foco em criar experiências visuais de qualidade para o usuário.
 
 ---
 
- Contato
+## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil-aqui)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vinnybuziosmendes-cyber)
 
+---
+
+> *"Todo expert já foi um dia iniciante. O que importa é não parar."*
