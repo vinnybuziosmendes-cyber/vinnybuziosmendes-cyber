@@ -32,7 +32,7 @@ com foco em criar experiências visuais de qualidade para o usuário.
 ## 📂 Projetos em Destaque
 
 ### 🎬 [Namaste Films](https://vinnybuziosmendes-cyber.github.io/namaste-films)
-> Site profissional desenvolvido para uma produtora audiovisual real.
+> Landing Page desenvolvida para uma produtora audiovisual real.
 
 - Landing page completa com vídeo em background, portfólio e loja de produtos
 - Integração com WhatsApp para pedidos e orçamentos
